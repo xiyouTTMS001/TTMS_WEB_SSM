@@ -23,6 +23,11 @@ public class UserController{
     @Autowired
     private WebUserServiceImpl userService;
 
+    @RequestMapping("/tohome")
+    public String tohome(){
+        return "";
+    }
+
     @RequestMapping("/touser")
     public String touser(){
         return "user";

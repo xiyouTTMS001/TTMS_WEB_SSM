@@ -13,7 +13,7 @@ import xiyou.service.PlayService;
 import java.util.List;
 @CrossOrigin
 @Controller
-@RequestMapping("/play")
+
 public class PlayController {
 
     @Autowired
@@ -21,6 +21,11 @@ public class PlayController {
 
     @Autowired
     private PlayService playService;
+
+    @RequestMapping("/toplay")
+    public String toplay(){
+        return "play";
+    }
 
     @ResponseBody
     @RequestMapping(value = "getPlay",method = RequestMethod.GET)
