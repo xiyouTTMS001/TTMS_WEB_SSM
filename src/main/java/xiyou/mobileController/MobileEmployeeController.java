@@ -58,6 +58,14 @@ public class MobileEmployeeController {
         return "failed";
     }
 
+    @ResponseBody
+    @RequestMapping(value = "/selectByEmpNo",method = RequestMethod.GET)
+    public Employee selectByEmpNo(@RequestParam String empNo)
+    {
+        return employeeMapper.selectByEmpNo(empNo);
+    }
+
+
 
 
 }

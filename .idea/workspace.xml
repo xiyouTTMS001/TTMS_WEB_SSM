@@ -7,10 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eec42055-a7de-46f0-a35d-b6d8c7b5e96d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiyou/dao/EmployeeMapper.java" afterPath="$PROJECT_DIR$/src/main/java/xiyou/dao/EmployeeMapper.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileEmployeeController.java" afterPath="$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileEmployeeController.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileUserController.java" afterPath="$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileUserController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiyou/pojo/Sale.java" afterPath="$PROJECT_DIR$/src/main/java/xiyou/pojo/Sale.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/EmployeeMapper.xml" afterPath="$PROJECT_DIR$/src/main/resources/mapper/EmployeeMapper.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -77,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/pojo/Sale_item.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
-              <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+              <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -87,28 +85,31 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileTicketController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="429">
-              <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+              <caret line="83" column="5" lean-forward="false" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MobileUserController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MobileUserController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileUserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+            <state relative-caret-position="117">
+              <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MobileEmployeeController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MobileEmployeeController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileEmployeeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="32" column="47" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="47" />
-              <folding />
+            <state relative-caret-position="1307">
+              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+              <folding>
+                <element signature="e#1871#1872#0" expanded="true" />
+                <element signature="e#1929#1930#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -178,7 +179,6 @@
         <option value="$PROJECT_DIR$/src/main/java/xiyou/service/impl/UserServiceUmpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/controller/MobileUserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/MobileEmployeeController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileEmployeeController.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/pojo/Msg.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/controller/EmployeeController.java" />
@@ -221,9 +221,10 @@
         <option value="$PROJECT_DIR$/src/main/java/xiyou/service/impl/SaleServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileSaleController.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/pojo/Sale.java" />
-        <option value="$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileUserController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mapper/EmployeeMapper.xml" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/dao/EmployeeMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileEmployeeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileUserController.java" />
       </list>
     </option>
   </component>
@@ -639,7 +640,7 @@
       <workItem from="1528295146672" duration="5995000" />
       <workItem from="1528329510426" duration="13335000" />
       <workItem from="1528519473657" duration="26816000" />
-      <workItem from="1528675663305" duration="17410000" />
+      <workItem from="1528675663305" duration="20726000" />
     </task>
     <servers />
   </component>
@@ -652,7 +653,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94203000" />
+    <option name="totallyTimeSpent" value="97519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2869" y="-11" width="2071" height="1174" extended-state="6" />
@@ -1181,7 +1182,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/pojo/Sale_item.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -1189,15 +1190,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileTicketController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
-          <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileUserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <caret line="83" column="5" lean-forward="false" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1230,8 +1223,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileEmployeeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="32" column="47" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="47" />
+        <state relative-caret-position="1307">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding>
+            <element signature="e#1871#1872#0" expanded="true" />
+            <element signature="e#1929#1930#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
           <folding />
         </state>
       </provider>

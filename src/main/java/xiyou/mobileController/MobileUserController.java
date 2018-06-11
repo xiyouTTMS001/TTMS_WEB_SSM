@@ -24,15 +24,15 @@ public class MobileUserController {
 
     @ResponseBody
     @RequestMapping(value = "login")
-    public User login(@RequestParam String name, @RequestParam String password, HttpServletRequest request, HttpServletResponse response)
+    public String login(@RequestParam String name, @RequestParam String password)
     {
         User user = userMapper.selectByPrimaryKey(name);
 
         if(password.equals(user.getEmpPass()))
         {
-            return user;
+            return "succeed";
         }
-        return null;
+        return "failed";
     }
     @ResponseBody
     @RequestMapping(value ="getUserById",method = RequestMethod.GET)
