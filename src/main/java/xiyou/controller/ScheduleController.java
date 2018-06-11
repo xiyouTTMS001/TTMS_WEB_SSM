@@ -12,10 +12,15 @@ import xiyou.pojo.Schedule;
 import java.util.List;
 @CrossOrigin
 @Controller
-@RequestMapping("/schedule")
+
 public class ScheduleController {
     @Autowired
     private ScheduleMapper scheduleMapper;
+
+    @RequestMapping("/toschedule")
+    public String toschedule(){
+        return "schedule";
+    }
 
     @ResponseBody
     @RequestMapping(value = "getSchedule",method = RequestMethod.GET)

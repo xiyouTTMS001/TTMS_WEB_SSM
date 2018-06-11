@@ -7,85 +7,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eec42055-a7de-46f0-a35d-b6d8c7b5e96d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/xiyou/service/WebEmployeeService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/xiyou/service/WebPlayService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/xiyou/service/WebScheduleService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/xiyou/service/WebSeatService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/xiyou/service/WebStudioService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/xiyou/service/WebTicketService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/xiyou/service/WebUserService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/xiyou/service/impl/WebEmployeeServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/xiyou/service/impl/WebPlayServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/xiyou/service/impl/WebScheduleServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/xiyou/service/impl/WebSeatServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/xiyou/service/impl/WebStudioServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/xiyou/service/impl/WebTicketServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/xiyou/service/impl/WebUserServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/addPlay.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/addStudio.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/addUser.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/editStudio.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/editUser.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/personalCenter.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/play.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/saleTicket.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/saleTicketSeat.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/schedule.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/seat.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/studio.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/test.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/footer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/home.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/jq22.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/login.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/nav.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/personStyle.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/play.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/saleTicket.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/schedule.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/seat.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/studio.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/user.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/employee.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-3.1.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.seat-charts.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/user.js" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiyou/controller/EmployeeController.java" afterPath="$PROJECT_DIR$/src/main/java/xiyou/controller/EmployeeController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiyou/controller/StudioController.java" afterPath="$PROJECT_DIR$/src/main/java/xiyou/controller/StudioController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiyou/controller/UserController.java" afterPath="$PROJECT_DIR$/src/main/java/xiyou/controller/UserController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiyou/dao/UserMapper.java" afterPath="$PROJECT_DIR$/src/main/java/xiyou/dao/UserMapper.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/list.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM.war" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM.war" />
-      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/mapper/UserMapper.xml" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/mapper/UserMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/spring/spring-web.xml" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/spring/spring-web.xml" />
-      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/controller/EmployeeController.class" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/controller/EmployeeController.class" />
-      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/controller/StudioController.class" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/controller/StudioController.class" />
-      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/controller/UserController.class" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/controller/UserController.class" />
-      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/dao/UserMapper.class" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/dao/UserMapper.class" />
-      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/service/impl/StudioServiceImpl.class" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/service/impl/StudioServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/jsp/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/jsp/list.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" afterPath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-web.xml" afterPath="$PROJECT_DIR$/target/classes/spring/spring-web.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiyou/controller/EmployeeController.class" afterPath="$PROJECT_DIR$/target/classes/xiyou/controller/EmployeeController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiyou/controller/StudioController.class" afterPath="$PROJECT_DIR$/target/classes/xiyou/controller/StudioController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiyou/controller/UserController.class" afterPath="$PROJECT_DIR$/target/classes/xiyou/controller/UserController.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiyou/dao/UserMapper.class" afterPath="$PROJECT_DIR$/target/classes/xiyou/dao/UserMapper.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiyou/service/impl/StudioServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/xiyou/service/impl/StudioServiceImpl.class" />
+      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_37.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_37.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_3_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_14_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_14_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_14_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_14_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_14_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_14_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_14_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_14_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_14_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_14_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_14_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_14_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_14_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_14_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_14_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_14_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_14_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_14_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_14_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_14_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xiyou/controller/PlayController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xiyou/controller/PlayController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xiyou/controller/ScheduleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xiyou/controller/ScheduleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xiyou/controller/SeatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xiyou/controller/SeatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xiyou/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xiyou/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/play.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/play.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/schedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/seat.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/seat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/studio.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/studio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/controller/PlayController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/controller/PlayController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/controller/ScheduleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/controller/ScheduleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/controller/SeatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/controller/SeatController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/classes/xiyou/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/jsp/employee.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/jsp/employee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/jsp/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/jsp/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/jsp/play.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/jsp/play.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/jsp/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/jsp/schedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/jsp/seat.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/jsp/seat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/jsp/studio.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/jsp/studio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/jsp/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/WEB-INF/jsp/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TTMS_WEB_SSM/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/TTMS_WEB_SSM/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xiyou/controller/PlayController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/xiyou/controller/PlayController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xiyou/controller/ScheduleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/xiyou/controller/ScheduleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xiyou/controller/SeatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/xiyou/controller/SeatController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xiyou/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/xiyou/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Test.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -98,111 +85,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="MobileSeatController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileSeatController.java">
+      <file leaf-file-name="WebPlayService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/service/WebPlayService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-390">
-              <caret line="20" column="66" lean-forward="false" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="66" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#600#601#0" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#785#786#0" expanded="true" />
-                <element signature="e#828#829#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="159" column="33" lean-forward="false" selection-start-line="159" selection-start-column="33" selection-end-line="159" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="37" column="49" lean-forward="false" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring-web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1248">
-              <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TicketController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/controller/TicketController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1643">
-              <caret line="79" column="25" lean-forward="false" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MobileScheduleController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileScheduleController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="63" column="71" lean-forward="false" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MobilePlayController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobilePlayController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="53" />
-              <folding>
-                <element signature="e#790#791#0" expanded="true" />
-                <element signature="e#837#838#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MobileStudioController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileStudioController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="28" column="59" lean-forward="false" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MobileTicketController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileTicketController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="936">
-              <caret line="33" column="71" lean-forward="false" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlayController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/controller/PlayController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1339">
-              <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-              <folding />
+            <state relative-caret-position="175">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -229,24 +116,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/zuo/web/TicketController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zuo/controller/TicketController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zuo/dao/TicketMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/xiyou/controller/SeatController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/xiyou/service/impl/TicketServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/xiyou/service/TicketService.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/xiyou/interceptor/BaseInterceptor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/xiyou/interceptor/TestInterceptor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/xiyou/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/service/impl/UserServiceUmpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/controller/MobileUserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/MobileEmployeeController.java" />
@@ -254,15 +126,12 @@
         <option value="$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileUserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileTicketController.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/pojo/Msg.java" />
-        <option value="$PROJECT_DIR$/src/main/java/xiyou/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/controller/EmployeeController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/xiyou/controller/PlayController.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/controller/TicketController.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/service/impl/EmployeeServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/service/ScheduleService.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/dao/ScheduleMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/xiyou/controller/ScheduleController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/controller/StudioController.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileStudioController.java" />
@@ -288,6 +157,19 @@
         <option value="$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobilePlayController.java" />
         <option value="$PROJECT_DIR$/src/main/java/xiyou/service/impl/StudioServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/xiyou/controller/ScheduleController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xiyou/controller/SeatController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xiyou/controller/PlayController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/studio.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/play.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/seat.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/schedule.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.html" />
+        <option value="$PROJECT_DIR$/src/main/java/xiyou/controller/UserController.java" />
       </list>
     </option>
   </component>
@@ -308,7 +190,8 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\Maven\Repo" />
-        <option name="userSettingsFile" value="D:\Maven\settings.xml" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -333,11 +216,14 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1942" />
-    <option name="height" value="1102" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1943" />
+    <option name="height" value="1103" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -359,21 +245,13 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -392,138 +270,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TTMS_WEB_SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TTMS_WEB_SSM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TTMS_WEB_SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TTMS_WEB_SSM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xiyou" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TTMS_WEB_SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TTMS_WEB_SSM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xiyou" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TTMS_WEB_SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TTMS_WEB_SSM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xiyou" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TTMS_WEB_SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TTMS_WEB_SSM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xiyou" type="462c0819:PsiDirectoryNode" />
-              <item name="mobileController" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TTMS_WEB_SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TTMS_WEB_SSM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xiyou" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TTMS_WEB_SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TTMS_WEB_SSM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xiyou" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TTMS_WEB_SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TTMS_WEB_SSM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TTMS_WEB_SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TTMS_WEB_SSM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TTMS_WEB_SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TTMS_WEB_SSM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TTMS_WEB_SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TTMS_WEB_SSM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TTMS_WEB_SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TTMS_WEB_SSM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TTMS_WEB_SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TTMS_WEB_SSM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TTMS_WEB_SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TTMS_WEB_SSM" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -551,28 +313,12 @@
   </component>
   <component name="RunManager" selected="Tomcat Server.TTMS_WEB_SSM">
     <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
     </configuration>
     <configuration name="Test.Print" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="TTMS_WEB_SSM" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -583,17 +329,13 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -603,24 +345,13 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -633,19 +364,16 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TTMS_WEB_SSM" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M211" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="TTMS_WEB_SSM" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.47" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="TTMS_WEB_SSM:war">
@@ -662,7 +390,6 @@
       <predefined_log_file id="Tomcat Manager" enabled="false" />
       <predefined_log_file id="Tomcat Host Manager" enabled="false" />
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="3655" />
       </RunnerSettings>
@@ -717,24 +444,15 @@
         </option>
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.TTMS_WEB_SSM" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.Test.Print" />
+    <list>
+      <item itemvalue="Tomcat Server.TTMS_WEB_SSM" />
+      <item itemvalue="JUnit.Test.Print" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Test.Print" />
+      <list>
+        <item itemvalue="JUnit.Test.Print" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -755,6 +473,7 @@
       <workItem from="1528329510426" duration="13335000" />
       <workItem from="1528519473657" duration="26816000" />
       <workItem from="1528675663305" duration="10873000" />
+      <workItem from="1528690825409" duration="3104000" />
     </task>
     <servers />
   </component>
@@ -767,43 +486,43 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87666000" />
+    <option name="totallyTimeSpent" value="90770000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.05453564" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.99451756" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29589632" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.3289183" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.12174479" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3289183" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24447514" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2955729" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -812,185 +531,60 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/service/TicketService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="13" column="45" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="13" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/dao/ScheduleMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1053">
-          <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/controller/SeatController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="19" column="64" lean-forward="false" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TicketDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="6" column="46" lean-forward="false" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-          <folding>
-            <marker date="1528248978083" expanded="true" signature="260:280" ph="SELECT * FRO... ticket" />
-            <marker date="1528248978083" expanded="true" signature="402:451" ph="SELECT * FRO... ticket" />
-            <marker date="1528248978083" expanded="true" signature="542:593" ph="SELECT * FRO... ticket" />
-            <marker date="1528248978083" expanded="true" signature="1016:1063" ph="DELETE FROM ticket... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/StudioDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/dao/StudioDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-292">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/pojo/Ticket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/dao/StudioMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="654">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/TicketMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
-          <caret line="243" column="24" lean-forward="false" selection-start-line="243" selection-start-column="17" selection-end-line="243" selection-end-column="24" />
-          <folding>
-            <marker date="1528535275550" expanded="true" signature="3639:3753" ph="select from ticket" />
-            <marker date="1528535275550" expanded="true" signature="3837:3905" ph="delete from ticket... " />
-            <marker date="1528535275550" expanded="true" signature="3995:4013" ph="delete from ticket... " />
-            <marker date="1528535275550" expanded="true" signature="4179:4511" ph="insert into ticket... " />
-            <marker date="1528535275550" expanded="true" signature="5823:5850" ph="select count... ticket" />
-            <marker date="1528535275550" expanded="true" signature="6930:7301" ph="update ticket... " />
-            <marker date="1528535275550" expanded="true" signature="7498:8107" ph="update ticket... " />
-            <marker date="1528535275550" expanded="true" signature="8193:8525" ph="update ticket... " />
-            <marker date="1528535275550" expanded="true" signature="8635:8730" ph="select from ticket" />
-            <marker date="1528535275550" expanded="true" signature="8813:8879" ph="delete from ticket... " />
-            <marker date="1528535275550" expanded="true" signature="8968:9292" ph="update ticket... " />
-          </folding>
+          <caret line="243" column="24" selection-start-line="243" selection-start-column="17" selection-end-line="243" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/dao/TicketMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="623">
-          <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-          <folding />
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/pojo/Schedule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-273">
-          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="27" />
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/StudioMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="564">
-          <caret line="228" column="0" lean-forward="false" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
-          <folding>
-            <marker date="1528543632799" expanded="true" signature="3690:3805" ph="select from studio" />
-            <marker date="1528543632799" expanded="true" signature="3891:3960" ph="delete from studio... " />
-            <marker date="1528543632799" expanded="true" signature="4050:4068" ph="delete from studio... " />
-            <marker date="1528543632799" expanded="true" signature="4282:4642" ph="insert into studio... " />
-            <marker date="1528543632799" expanded="true" signature="6058:6085" ph="select count... studio" />
-            <marker date="1528543632799" expanded="true" signature="7207:7606" ph="update studio... " />
-            <marker date="1528543632799" expanded="true" signature="7803:8454" ph="update studio... " />
-            <marker date="1528543632799" expanded="true" signature="8540:8900" ph="update studio... " />
-          </folding>
+          <caret line="228" selection-start-line="228" selection-end-line="228" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-10">
-          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding />
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileUserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/pojo/SeatExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-10920">
-          <caret line="99" column="35" lean-forward="false" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="35" />
+          <caret line="99" column="35" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -998,104 +592,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/dao/SeatMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1014">
-          <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
-          <folding />
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/SeatMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8424">
-          <caret line="216" column="30" lean-forward="false" selection-start-line="216" selection-start-column="14" selection-end-line="216" selection-end-column="30" />
-          <folding>
-            <marker date="1528534237810" expanded="true" signature="3514:3623" ph="select from seat" />
-            <marker date="1528534237810" expanded="true" signature="3709:3772" ph="delete from seat... " />
-            <marker date="1528534237810" expanded="true" signature="3860:3876" ph="delete from seat... " />
-            <marker date="1528534237810" expanded="true" signature="4040:4291" ph="insert into seat... " />
-            <marker date="1528534237810" expanded="true" signature="5400:5425" ph="select count... seat" />
-            <marker date="1528534237810" expanded="true" signature="6357:6647" ph="update seat... " />
-            <marker date="1528534237810" expanded="true" signature="6842:7319" ph="update seat... " />
-            <marker date="1528534237810" expanded="true" signature="7403:7661" ph="update seat... " />
-            <marker date="1528534237810" expanded="true" signature="7746:7813" ph="delete from seat... " />
-            <marker date="1528534237810" expanded="true" signature="7924:8036" ph="select from seat" />
-          </folding>
+          <caret line="216" column="30" selection-start-line="216" selection-start-column="14" selection-end-line="216" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/service/SeatService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/pojo/Play.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
-          <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="28" />
-          <folding />
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/dao/PlayMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
-          <caret line="30" column="50" lean-forward="false" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
-          <folding />
+          <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/PlayMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="611">
-          <caret line="280" column="23" lean-forward="false" selection-start-line="280" selection-start-column="23" selection-end-line="280" selection-end-column="23" />
-          <folding>
-            <marker date="1528683098554" expanded="true" signature="3908:4017" ph="select from play" />
-            <marker date="1528683098554" expanded="true" signature="4103:4166" ph="delete from play... " />
-            <marker date="1528683098554" expanded="true" signature="4254:4270" ph="delete from play... " />
-            <marker date="1528683098554" expanded="true" signature="4434:4912" ph="insert into play... " />
-            <marker date="1528683098554" expanded="true" signature="6694:6719" ph="select count... play" />
-            <marker date="1528683098554" expanded="true" signature="8147:8692" ph="update play... " />
-            <marker date="1528683098554" expanded="true" signature="8887:9804" ph="update play... " />
-            <marker date="1528683098554" expanded="true" signature="9888:10373" ph="update play... " />
-            <marker date="1528683098554" expanded="true" signature="10481:10598" ph="select from play" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/service/PlayService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding />
+          <caret line="280" column="23" selection-start-line="280" selection-start-column="23" selection-end-line="280" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/service/impl/EmployeeServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="8" />
-          <folding />
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/service/impl/PlayServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
-          <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="32" />
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="32" />
           <folding>
-            <element signature="e#979#980#0" expanded="false" />
-            <element signature="e#1029#1030#0" expanded="false" />
+            <element signature="e#979#980#0" />
+            <element signature="e#1029#1030#0" />
           </folding>
         </state>
       </provider>
@@ -1103,8 +658,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/service/impl/SeatServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="741">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
@@ -1112,96 +666,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/service/impl/TicketServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
-          <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="33" />
-          <folding />
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/service/impl/StudioServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2067">
-          <caret line="63" column="30" lean-forward="false" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/controller/ScheduleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1846">
-          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="26" />
-          <folding />
+          <caret line="63" column="30" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/service/ScheduleService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="14" />
-          <folding />
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/controller/StudioController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/service/impl/ScheduleServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
-          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding />
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ScheduleMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
-          <caret line="215" column="46" lean-forward="false" selection-start-line="215" selection-start-column="46" selection-end-line="215" selection-end-column="46" />
-          <folding>
-            <marker date="1528536690765" expanded="true" signature="3548:3663" ph="select from schedule" />
-            <marker date="1528536690765" expanded="true" signature="3749:3818" ph="delete from schedule... " />
-            <marker date="1528536690765" expanded="true" signature="3910:3930" ph="delete from schedule... " />
-            <marker date="1528536690765" expanded="true" signature="4144:4411" ph="insert into schedule... " />
-            <marker date="1528536690765" expanded="true" signature="5600:5629" ph="select count... schedule" />
-            <marker date="1528536690765" expanded="true" signature="6582:6888" ph="update schedule... " />
-            <marker date="1528536690765" expanded="true" signature="7087:7584" ph="update schedule... " />
-            <marker date="1528536690765" expanded="true" signature="7672:7946" ph="update schedule... " />
-            <marker date="1528536690765" expanded="true" signature="8055:8167" ph="select from schedule" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/controller/PlayController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1339">
-          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-          <folding />
+          <caret line="215" column="46" selection-start-line="215" selection-start-column="46" selection-end-line="215" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileScheduleController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="63" column="71" lean-forward="false" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="71" />
-          <folding />
+        <state relative-caret-position="1250">
+          <caret line="63" column="71" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="71" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobilePlayController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="53" />
+        <state relative-caret-position="350">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="53" />
           <folding>
             <element signature="e#790#791#0" expanded="true" />
             <element signature="e#837#838#0" expanded="true" />
@@ -1211,24 +731,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileStudioController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="28" column="59" lean-forward="false" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="59" />
-          <folding />
+        <state relative-caret-position="450">
+          <caret line="28" column="59" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileTicketController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="33" column="71" lean-forward="false" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="71" />
-          <folding />
+        <state relative-caret-position="600">
+          <caret line="33" column="71" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/controller/TicketController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1750">
+          <caret line="79" column="25" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/mobileController/MobileSeatController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-390">
-          <caret line="20" column="66" lean-forward="false" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="66" />
+        <state relative-caret-position="25">
+          <caret line="20" column="66" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#600#601#0" expanded="true" />
@@ -1239,90 +785,128 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/controller/EmployeeController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="75">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/controller/ScheduleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/controller/SeatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/controller/PlayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/studio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/employee.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/play.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2574">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="122">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/seat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/user.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1228" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
           <folding>
-            <marker date="1528163592000" expanded="true" signature="1565:3528" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="1612:1694" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="1730:3522" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="1768:3507" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="1789:2130" ph="..." />
-            <marker date="1528163592000" expanded="false" signature="1941:1959" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="2025:2108" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="2151:2307" ph="..." />
-            <marker date="1528163592000" expanded="false" signature="2184:2202" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="2328:2459" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="2480:2615" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="2636:2769" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="2790:2919" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="2940:3486" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="3074:3275" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="3133:3270" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="3300:3464" ph="..." />
-            <marker date="1528163592000" expanded="false" signature="3354:3371" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="3372:3459" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="4450:6402" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="4486:4568" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="4604:6396" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="4642:6381" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="4663:5004" ph="..." />
-            <marker date="1528163592000" expanded="false" signature="4815:4833" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="4899:4982" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="5025:5181" ph="..." />
-            <marker date="1528163592000" expanded="false" signature="5058:5076" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="5202:5333" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="5354:5489" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="5510:5643" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="5664:5793" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="5814:6360" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="5948:6149" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="6007:6144" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="6174:6338" ph="..." />
-            <marker date="1528163592000" expanded="false" signature="6228:6245" ph="..." />
-            <marker date="1528163592000" expanded="true" signature="6246:6333" ph="..." />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/controller/TicketController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1643">
-          <caret line="79" column="25" lean-forward="false" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="159" column="33" lean-forward="false" selection-start-line="159" selection-start-column="33" selection-end-line="159" selection-end-column="33" />
-          <folding />
+        <state relative-caret-position="-275">
+          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="37" column="49" lean-forward="false" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="49" />
-          <folding />
+        <state relative-caret-position="175">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/service/PlayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xiyou/service/WebPlayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
